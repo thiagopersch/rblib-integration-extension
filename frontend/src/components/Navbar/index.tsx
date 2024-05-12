@@ -20,7 +20,6 @@ const Navbar = ({ children }: NavbarProps) => {
           >
             RBLib
           </Typography>
-          {/* <Button variant="text">Login</Button> */}
         </Toolbar>
       </AppBar>
     </Box>
